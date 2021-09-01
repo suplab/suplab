@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suplab</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A passionate full stack software developer. I'm from India, living in Kolkata and currently working at Cognizant.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suplab" alt="suplab" /></a> </p>
 
